@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.profile {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  background-image: url("https://krot.mobi/uploads/posts/2021-01/thumbs/1610166478_27-p-fon-razvodi-kraski-48.jpg");
+}
+
+.avatar {
+  width: 100%;
+}
+.name {
+  color: grey;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.tag {
+  text-decoration: none;
+  font-size: 22px;
+  color: slateblue;
+}
+.location {
+  font-size: 25px;
+  color: black;
+  line-height: 32px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.stats {
+  list-style: none;
+  background-color: #f3f6f9;
+  border-radius: 0 0 5px 5px;
+}
+.label {
+  color: royalblue;
+  padding-top: 22px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.quantity {
+  padding-bottom: 22px;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 18px;
+}

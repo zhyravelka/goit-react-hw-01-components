@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://uaf.ua/photos/zbirna/2021/%D1%94%D0%B2%D1%80%D0%BE-2020/%D0%B2%D1%96%D0%B7%D0%B8%D1%82%D0%BA%D0%B8/%D0%BF%D1%8F%D1%82%D0%BE%D0%B2-%D1%94%D0%B2%D1%80%D0%BE-2020-min.jpg",
+      "name": "Andriy",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://www.film.ru/sites/default/files/people/2198510-1193676.jpg",
+      "name": "Sara",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://lh3.googleusercontent.com/proxy/DEaXG808rePx305Gzi17cASpjTqNm8Px4BsAjQLCHYecPfHNDhvj2i3T9TOJgZjZLLYdwoQd5AcSkBu54Qvd89_qmX1Z5dxsFMopF0uSzuwE9eTmf1fq5KY",
+      "name": "Alexander",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://sites.google.com/site/moehobbimgon/_/rsrc/1472865335929/home/vidatni-futbolisti-ukraieni/%D0%A2%D0%B8%D0%BC%D0%BE%D1%89%D1%83%D0%BA%282%29.jpg?height=318&width=320",
+      "name": "Anatoly",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://images11.cosmopolitan.ru/upload/img_cache/281/2816c82d3cd7bdcc9503bc6d9f802700_cropped_666x833.jpg",
+      "name": "Sveta",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
